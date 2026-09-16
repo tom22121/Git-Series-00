@@ -22,3 +22,9 @@ Python seems especially useful for data analysis, automation and medical applica
 I have less experience with R, but I want to understand when it can be useful for statistics and research.  
 I already use Git for some projects, but I want to understand the workflow better, not just the basic commands.  
 My goal is to be able to use these tools naturally in both university and future professional projects.
+
+
+
+## Local image
+
+![Building](images/building.jpg)

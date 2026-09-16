@@ -28,3 +28,13 @@ My goal is to be able to use these tools naturally in both university and future
 ## Local image
 
 ![Building](images/building.jpg)
+
+## What I learned
+
+I learned how a local Git repository is connected to a remote repository on GitHub.  
+I practiced creating and working on a separate branch instead of modifying `main` directly.  
+I also used commits and push to save and send my changes to GitHub.  
+I learned how to edit a README file using Markdown and add both online and local images.  
+The main Git actions I used were branch, commit and push.
+
+This assignment took me about 1 hour to complete.
